@@ -1,4 +1,4 @@
-# pd-integration_webhooks
+# pd-integration-webhooks
 
 A collection of JSON-formatted webhooks that send PD-CEF-formatted events.  All the JSON files are designed to send an Events V2 API payload.  To create the necessary API key please consult the following PagerDuty documentation:
 
