@@ -17,7 +17,7 @@ https://events.pagerduty.com/v2/enqueue
 
 REQUEST HEADERS:
 content-type: application/json
-x-routing-key: <Insert Routing Key>
+x-routing-key: Insert PagerDuty Routing Key
 
 BODY PAYLOAD:
 Copy the contents of the JSON file.
