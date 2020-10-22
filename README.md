@@ -7,7 +7,7 @@ A collection of JSON-formatted webhooks that send PD-CEF-formatted events.  All 
 
 # eggplant2pd.json
 
-Details on how to configure a webhook for alerts in Eggplant Monitoring Insights is detailed on [Eggplant's support pages](http://docs.eggplantsoftware.com/EMI/emi-webhooks.htm).  For PagerDuty, the settings should be as follows.
+Details on how to configure a webhook for alerts in Eggplant Monitoring Insights are detailed on [Eggplant's support pages](http://docs.eggplantsoftware.com/EMI/emi-webhooks.htm).  For PagerDuty, the settings should be as follows.
 
 REQUEST METHOD:
 post
