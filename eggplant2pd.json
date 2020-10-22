@@ -1,0 +1,16 @@
+{
+    "payload": {
+        "summary": "{{error-summary}}: {{error-description}}",
+        "source": "{{error-source}}",
+        "severity": "{{error-severity}}",
+        "custom_details": {
+            "description": "{{error-description}}",
+            "state": "{{error-state}}",
+            "Error-result-code": "{{error-result-code}}"
+        }
+    },
+    "dedup_key": "{{error-ref}}",
+    "event_action": "trigger",
+    "client": "Eggplant",
+    "client_url": "{{error-url}}"
+}
