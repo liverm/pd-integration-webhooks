@@ -1,9 +1,9 @@
 # pd-integration-webhooks
 
-A collection of JSON-formatted webhooks that send PD-CEF-formatted events.  All the JSON files are designed to send an Events V2 API payload.  To create the necessary API key please consult the following PagerDuty documentation:
+A collection of JSON-formatted webhooks that send PD-CEF-formatted events.  All the JSON files are designed to send an Events V2 API payload.  To create the necessary Events API routing key please consult the following PagerDuty documentation:
 
 * [PagerDuty Rulesets](https://support.pagerduty.com/docs/rulesets#send-events-to-a-global-ruleset)
-* [PagerDuty Services and Integrations](https://support.pagerduty.com/docs/rulesets#send-events-to-a-global-ruleset)
+* [PagerDuty Services and Integrations](https://support.pagerduty.com/docs/services-and-integrations#create-a-generic-events-api-integration)
 
 # eggplant2pd.json
 
