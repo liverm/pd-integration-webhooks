@@ -9,6 +9,7 @@
             "Error-result-code": "{{error-result-code}}"
         }
     },
+    "routing_key": "<ENTER ROUTING KEY HERE>",
     "dedup_key": "{{error-ref}}",
     "event_action": "trigger",
     "client": "Eggplant",
